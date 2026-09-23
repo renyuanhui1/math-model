@@ -1,0 +1,8 @@
+*.pdf binary
+*.doc binary
+*.docx binary
+*.xlsx binary
+*.mat binary
+*.tif binary
+*.png binary
+*.pkl binary

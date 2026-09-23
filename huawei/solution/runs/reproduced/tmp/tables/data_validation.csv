@@ -1,0 +1,9 @@
+﻿check,passed
+dispatch_center_O01,True
+service_zone_count_15,True
+box_count_80,True
+box_id_unique,True
+transport_models_ABC,True
+transport_drone_count_8,True
+relay_drone_count_2,True
+dem_mat_exists,True

@@ -1,0 +1,110 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "check": "official_box_count",
+      "passed": true,
+      "detail": "80"
+    },
+    {
+      "check": "q1_every_box_once",
+      "passed": true,
+      "detail": "80"
+    },
+    {
+      "check": "q1_official_mass_volume_energy",
+      "passed": true,
+      "detail": "18"
+    },
+    {
+      "check": "q2_every_box_once",
+      "passed": true,
+      "detail": "80"
+    },
+    {
+      "check": "q2_official_hard_deadlines",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "q2_trip_capacity_energy_consistency",
+      "passed": true,
+      "detail": "21"
+    },
+    {
+      "check": "q2_resource_intervals",
+      "passed": true,
+      "detail": "63"
+    },
+    {
+      "check": "q3_every_box_once",
+      "passed": true,
+      "detail": "80"
+    },
+    {
+      "check": "q3_official_hard_deadlines",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "q3_trip_capacity_energy_consistency",
+      "passed": true,
+      "detail": "21"
+    },
+    {
+      "check": "q3_resource_intervals",
+      "passed": true,
+      "detail": "93"
+    },
+    {
+      "check": "q3_relay_energy",
+      "passed": true,
+      "detail": "10"
+    },
+    {
+      "check": "q3_exported_communication_intervals",
+      "passed": true,
+      "detail": "max_gap_s=1.000000"
+    },
+    {
+      "check": "q4_k2_partition_and_route",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "q4_k2_resource_totals",
+      "passed": true,
+      "detail": "2"
+    },
+    {
+      "check": "q4_k3_partition_and_route",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "q4_k3_resource_totals",
+      "passed": true,
+      "detail": "5"
+    },
+    {
+      "check": "official_submission_sheets",
+      "passed": true,
+      "detail": "{'Q1_单点组批': 19, 'Q2_运输架次': 22, 'Q2_逐箱交付': 81, 'Q3_中继架次': 11, 'Q3_通信保障': 252, 'Q4_分区配置': 6}"
+    },
+    {
+      "check": "data_validation",
+      "passed": true,
+      "detail": "8"
+    },
+    {
+      "check": "q2_feasibility_check",
+      "passed": true,
+      "detail": "87"
+    },
+    {
+      "check": "q3_feasibility_check",
+      "passed": true,
+      "detail": "21"
+    }
+  ]
+}

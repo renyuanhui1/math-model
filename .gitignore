@@ -1,0 +1,14 @@
+# Imported reference archive and historical runs are retained locally.
+# Selected official inputs and current source files are force-added once.
+/huawei/huawei/*
+
+# Regenerable previews and inspection caches.
+/huawei/solution/tmp/
+/huawei/solution/runs/reproduced/tmp/workbook_previews/
+/huawei/solution/runs/reproduced/figures/*.png
+/huawei/solution/runs/reproduced/results/*.inspect.ndjson
+/huawei/solution/paper/logo.pdf
+/huawei/solution/paper/title.pdf
+/huawei/solution/paper/title-img-01.png
+**/__pycache__/
+*.pyc
